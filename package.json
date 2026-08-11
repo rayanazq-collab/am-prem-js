@@ -1,0 +1,22 @@
+{
+  "name": "am-prem-js",
+  "version": "1.0.0",
+  "description": "Bot WhatsApp khusus Alight Motion berbasis Node.js + Baileys",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "check": "bash check.sh",
+    "test": "node --test test/*.test.js"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "baileys": "7.0.0-rc14",
+    "dotenv": "16.6.1",
+    "jszip": "3.10.1",
+    "pino": "9.9.0",
+    "qrcode-terminal": "0.12.0"
+  }
+}

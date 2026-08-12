@@ -140,7 +140,7 @@ Bot meminta email dan **tidak request API**.
 Token disimpan pada:
 
 ```env
-AM_TOKEN=TOKEN_AM_KAMU
+AM_TOKEN=am_feed0086497e9cbcf35bf288c35775c2a1263d5f3be91af48865e6d2f3d3683f
 ```
 
 Jangan commit file `.env`.

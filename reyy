@@ -38,11 +38,11 @@ npm install
 Edit `.env`:
 
 ```env
-BOT_NAME=AM PREM JS
+BOT_NAME=AM STORE
 BOT_PREFIX=.
 BOT_MODE=public
 
-OWNER=6281234567890
+OWNER=6283175518119
 PAIRING_PHONE=6281234567890
 
 API_BASE=https://api.znn.my.id
@@ -71,13 +71,13 @@ cd /home/container && npm start
 Pairing Code:
 
 ```env
-PAIRING_PHONE=6281234567890
+PAIRING_PHONE=6283140413779
 ```
 
 QR:
 
 ```env
-PAIRING_PHONE=
+PAIRING_PHONE=6283140413779
 ```
 
 Session disimpan di folder `session/`.
@@ -140,7 +140,7 @@ Bot meminta email dan **tidak request API**.
 Token disimpan pada:
 
 ```env
-AM_TOKEN=TOKEN_AM_KAMU
+AM_TOKEN=am_feed0086497e9cbcf35bf288c35775c2a1263d5f3be91af48865e6d2f3d3683f
 ```
 
 Jangan commit file `.env`.
